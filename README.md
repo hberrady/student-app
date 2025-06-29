@@ -38,6 +38,7 @@ student-app/
    git clone https://github.com/hberrady/student-app.git
    cd student-app
 2. Build and start the containers
+   ```bash
    docker-compose up --build
 4. Access the application in your browser
   Frontend: http://your-server-ip:8080
