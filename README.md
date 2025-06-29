@@ -39,7 +39,7 @@ student-app/
    cd student-app
 2. Build and start the containers
    docker-compose up --build
-4. - Access the application in your browser
-  Frontend: http://<your-server-ip>:8080
-  Backend API: http://<your-server-ip>:5000
+4. Access the application in your browser
+  Frontend: http://your-server-ip:8080
+  Backend API: http://your-server-ip:5000
  
